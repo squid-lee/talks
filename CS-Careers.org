@@ -1,0 +1,197 @@
+#+TITLE: Careers in Computer Science
+#+DATE:
+#+AUTHOR:
+#+OPTIONS: H:1
+#+BEAMER_COLOR_THEME:
+#+BEAMER_FONT_THEME:
+#+BEAMER_HEADER:
+#+BEAMER_INNER_THEME:
+#+BEAMER_OUTER_THEME:
+#+BEAMER_THEME: default
+#+LATEX_CLASS: beamer
+
+* The Careers
+  * Programming Careers
+  * Security Careers
+  * Infrastructure Careers
+  * Non-Technical Careers
+
+* Programming Careers
+  * Programmer / Developer / Software Engineer
+  * Web Developers
+  * App Developers
+
+* Programmer / Developer / Software Engineer
+  * Different titles for the same job
+
+  * Write Software to solve Problems
+
+  * Very general role
+
+  * Often have a second specialism
+    * Finance
+    * Medical
+    * Aerospace
+    * Commerce (e.g. online shops)
+    * Embedded
+
+* Web Developers
+  * Specialise in making websites
+
+  * Degree level education not always needed
+
+  * Technical, but with design elements
+
+  * Fast moving field (at the moment)
+
+* App Developers
+  * Similar to Web Developers in some ways
+
+  * Degree level education not always needed
+
+  * Technical, but with design elements
+
+  * Desirable for startups
+
+
+
+* Security Careers
+  * Hackers!
+  * Penetration Testing
+  * OpSec / NetSec / InfoSec
+
+* Penetration Testing
+  * White hat hackers
+
+  * How easy is it to break into your:
+    * Website
+    * Application
+    * Company network?
+
+* OpSec / NetSec / InfoSec
+  * Responsible for internal security
+
+  * Work with people from lots of infrastructure roles
+
+  * Keep the company protected
+
+* Infrastructure Careers
+  * IT Support
+  * Database Administrator / Engineer
+  * Network Engineer
+  * System Administrator
+  * DevOps / Infrastructure Engineer
+
+* IT Support
+  * TAC or NOC
+    * Take support requests, and escalate or solve them
+    * Goes all the way to to 'Site Reliability Engineer'
+  * Often don't have a degree
+
+  * Level 1 / 2 / 3
+
+  * Vocational Career Progression
+
+* Database Administrator / Engineer
+  * Specialised role
+
+  * Less Programming
+
+  * Keep the database running
+
+  * Query Tuning
+
+  * Design Advice
+
+* Network Engineer
+  * Network Administrator
+
+  * Less Programming
+
+  * Very varied role
+
+  * Wireless Network Engineer
+    * Can be very technical
+
+  * Electrical Engineers
+
+  * Most likely to work in the Arctic / Desert / Hostile Conditions
+
+* System Administrator
+  * Unix Engineer
+  * Windows Engineer
+
+  * Less Programming
+
+  * Keeps everything working
+
+* DevOps / Infrastructure Engineer
+  * Keeps programmes that have been written working
+
+  * Often responsible for tools that help other technical people do their job
+    * Build Systems
+    * Version Control Systems
+
+* Analysis Careers
+  * Data Scientist
+  * Business Analyst
+
+* Data Scientist
+  * Less about programming
+
+  * Degree level education helpful
+
+  * Data Analysis
+    * Statistics
+    * Machine Learning
+    * Data Presentation
+
+  * Good Maths Skills
+
+  * Often work with non-technical people
+    * Sales
+    * Marketing
+
+* Business Analyst
+  * Know their business area really well
+
+  * Write a little bit of code for analysing data and making reports
+    * SQL
+
+* Non-technical Careers
+  * Managers (of People)
+  * Managers (of Projects)
+  * Any Non-Programming Career
+  * Non-Programmers who program
+
+* Management of People
+  * People who manage anyone in a role just spoke about
+
+  * Good managers know a bit about what their subordinates do
+
+* Management of Projects
+  * Decide what to do next on a project
+
+  * To know what to do, you need to know how to do it
+
+* Other roles
+  * Data processing is becoming more common
+
+  * Knowing a little bit of programming can be a big help
+
+  * Working with Excel
+    * Every business uses Excel
+
+  * Other examples
+
+* Programming when you're not a programmer
+  * Not necessarily careers
+
+  * Every STEM degree involves some programming now
+
+  * Typically modelling & data analysis
+    * How will a building fall apart in a massive storm?
+    * How does this protein fold?
+    * How will a spaceship behave as it re-enters the atmosphere?
+    * What's the most aerodynamic shape for a car?
+    * How will this ecosystem grow from these starting conditions?

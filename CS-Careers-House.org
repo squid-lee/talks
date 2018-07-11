@@ -1,0 +1,96 @@
+#+TITLE: Careers in Computer Science
+#+DATE:
+#+AUTHOR:
+#+OPTIONS: H:1
+#+BEAMER_COLOR_THEME:
+#+BEAMER_FONT_THEME:
+#+BEAMER_HEADER:
+#+BEAMER_INNER_THEME:
+#+BEAMER_OUTER_THEME:
+#+BEAMER_THEME: default
+#+LATEX_CLASS: beamer
+
+
+* What are the main rooms in a house?
+** Kitchen
+  :PROPERTIES:
+  :BEAMER_ACT: <2->
+  :END:
+** Bedroom
+  :PROPERTIES:
+  :BEAMER_ACT: <2->
+  :END:
+** Living Room
+  :PROPERTIES:
+  :BEAMER_ACT: <2->
+  :END:
+** Bathroom
+  :PROPERTIES:
+  :BEAMER_ACT: <2->
+  :END:
+
+* Electronic Devices in each room?
+** Kitchen
+** Bedroom
+** Living Room
+** Bathroom
+* What about a 'Smart House'?
+** Kitchen
+
+** Bedroom
+
+** Living Room
+
+** Bathroom
+
+* Main Features of these devices
+** Collect data
+  :PROPERTIES:
+  :BEAMER_ACT: <2->
+  :END:
+
+** Send it back for analysis
+  :PROPERTIES:
+  :BEAMER_ACT: <2->
+  :END:
+
+** Do that analysis
+  :PROPERTIES:
+  :BEAMER_ACT: <2->
+  :END:
+
+** Improve product
+  :PROPERTIES:
+  :BEAMER_ACT: <2->
+  :END:
+
+* What jobs are needed to make & support this product
+** Design the product
+  :PROPERTIES:
+  :BEAMER_ACT: <1->
+  :END:
+
+** Write the code
+  :PROPERTIES:
+  :BEAMER_ACT: <2->
+  :END:
+
+** Collect data
+  :PROPERTIES:
+  :BEAMER_ACT: <3->
+  :END:
+
+** Send it back for analysis
+  :PROPERTIES:
+  :BEAMER_ACT: <4->
+  :END:
+
+** Do that analysis
+  :PROPERTIES:
+  :BEAMER_ACT: <5->
+  :END:
+
+** Improve product
+  :PROPERTIES:
+  :BEAMER_ACT: <6->
+  :END:

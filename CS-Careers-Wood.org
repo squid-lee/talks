@@ -1,0 +1,82 @@
+#+TITLE: Careers in Computer Science
+#+DATE:
+#+AUTHOR:
+#+OPTIONS: H:1
+#+BEAMER_COLOR_THEME:
+#+BEAMER_FONT_THEME:
+#+BEAMER_HEADER:
+#+BEAMER_INNER_THEME:
+#+BEAMER_OUTER_THEME:
+#+BEAMER_THEME: default
+#+LATEX_CLASS: beamer
+
+* What are houses made from?
+  * UK
+  * US
+
+* Timber Supply Chain
+** Growing Trees
+** Logging
+   * Cut Down Trees
+   * Move logs, sometimes by floating down rivers
+** Saw Mills
+   * Turn logs into timber
+** Move the timber
+   * Drive it or ship it to a lumber yard
+** Making Things
+   * Build a house frame
+   * Build a boat
+   * Build a cabinet
+   * Build a guitar
+
+* Tools to do these jobs
+** Axe
+** Saw
+** Plane
+** Hammer
+** Drill
+
+   Who makes these tools?
+
+* Jobs directly working on Wood
+  * Framing Carpenter
+    * Builds structures
+  * Joiner
+    * Furniture
+    * Models
+    * Instruments
+  * Luthier
+    * String instruments, like guitars
+  * Form Carpenter
+    * Concrete
+  * Shipwright
+  *
+
+* Jobs about jobs
+** Sales
+   * Sell Wood
+
+** Supply Forecasting
+   * What's going to be needed?
+
+** Data Analysis
+   * How are this season's growth forecasts?
+   * Weather forecast
+
+** Logistics
+   * Move wood from A to B
+   * Which wood do we need where?
+   * Where do go to get the wood we need?
+
+** Project Management
+   * Which wood do we need?
+   * What do we need to build from wood?
+
+** Design
+   * Know your medium
+     * This wood is good for cabinets
+     * This wood is good for ships
+     * This wood is good for guitars
+
+** Management
+   * Look after everyone else
